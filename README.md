@@ -4,4 +4,13 @@ a brainfuck interpreter written in C along with an [Ook!](https://esolangs.org/w
 
 ## Screenshots
 
+#### Mandelbrot Fractal
+
 ![mandelbrot](https://github.com/atif5/brainfuCk/blob/main/screenshots/mandelbrot.png?raw=true)
+
+#### Chess thing
+
+![chess thing](https://github.com/atif5/brainfuCk/blob/main/screenshots/chess.png?raw=true)
+
+#### e
+
